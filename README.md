@@ -1,6 +1,8 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=22EBF7&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Hello+there%2C+I'm+Jay+%F0%9F%91%8B;Glad+you're+here%F0%9F%98%84" alt="Typing SVG" />
-</a>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=22EBF7&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Hello+there%2C+I'm+Jay+%F0%9F%91%8B;Glad+you're+here%F0%9F%98%84" alt="Typing SVG" />
+  </a>
+</h2>
 
 
 <!-- - 👋 Hi, I’m @jaybayron9
