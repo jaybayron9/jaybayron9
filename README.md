@@ -4,13 +4,7 @@
   </a>
 </h2>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaybayron9)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jaybayron9&label=Profile%20views&color=0e75b6&style=flat" alt="jaybayron9"/></p>
-<div align=center>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=jaybayron9&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=jaybayron9&theme=tokyonight&hide_border=true" />
-</div> -->
+
 
 
 <!-- - 👋 Hi, I’m @jaybayron9
