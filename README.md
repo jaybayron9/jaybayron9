@@ -4,17 +4,12 @@
   </a>
 </h2>
 
-<picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=jaybayron9&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jaybayron9&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jaybayron9&show_icons=true" />
-</picture>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jaybayron9&label=Profile%20views&color=0e75b6&style=flat" alt="jaybayron9"/></p>
+<div align=center>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=jaybayron9&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=jaybayron9&theme=tokyonight&hide_border=true" />
+</div>
 
 
 <!-- - 👋 Hi, I’m @jaybayron9
