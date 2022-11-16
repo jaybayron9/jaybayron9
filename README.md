@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn Badge" />
     </a>
-    <a href="https://www.instagram.com/ysko.jsx/" target="_blank">
+    <a href="https://web.facebook.com/jay.bayron900/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
     </a>
 </div>
