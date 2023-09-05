@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=22EBF7&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Hello+there%2C+I'm+Jay+%F0%9F%91%8B;Glad+you're+here%F0%9F%98%84" alt="Typing SVG" />
   </a>
-</h2>
+</h2> 
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jaybayron9&label=Profile%20views&color=0e75b6&style=flat" alt="jaybayron9"/></p> 
