@@ -14,6 +14,36 @@
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=jaybayron9&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybayron9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,vue,react,nodejs,mysql,postgresql,redis,git,linux,docker" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaybayron9&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaybayron9&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/jay-camanian-4a8648191/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
