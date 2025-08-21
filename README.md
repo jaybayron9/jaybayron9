@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,javascript,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=php,javascript,postgresql,redis" />
 </p>
 
 ---
