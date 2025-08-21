@@ -36,6 +36,9 @@
 
 ---
 
+![Contributors](https://img.shields.io/github/contributors/jaybayron9/jaybayron9?style=for-the-badge)
+
+
 ### 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/jaybayron9" target="_blank">
