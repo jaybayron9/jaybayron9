@@ -10,22 +10,7 @@
 
 <div align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=jaybayron9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=jaybayron9&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybayron9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,javascript,postgresql,redis" />
-</p>
+</div
 
 ---
 
