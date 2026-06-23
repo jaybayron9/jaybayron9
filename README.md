@@ -12,9 +12,9 @@ My niche is **real-time communications** — VoIP, WebRTC, and SIP telephony. I 
 
 - **Real-time comms** — multi-tenant PBX systems, SIP/WebRTC media, FreeSWITCH telephony
 - **Cross-platform apps** — Flutter on mobile, Windows desktop, and web (incl. softphone with `sip_ua` + `flutter_webrtc`)
-- **Backend & data** — PHP (Phalcon, CodeIgniter), PostgreSQL, Redis
+- **Backend & data** — Node, PHP (Laravel, Phalcon, CodeIgniter), PostgreSQL, Redis
 - **Infra & ops** — Debian servers, Nginx, deployment automation, Fail2ban hardening, bash tooling
-- **Now learning** — AWS, Docker/Kubernetes, Terraform
+- **Now learning** — AWS, Docker/Kubernetes
 
 ---
 
