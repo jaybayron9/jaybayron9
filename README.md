@@ -34,8 +34,10 @@ My niche is **real-time communications** — VoIP, WebRTC, and SIP telephony. I 
 
 **Backend**
 
+![Laravel](https://img.shields.io/badge/Laravel-009BDB?style=flat&logo=laravel&logoColor=white)
 ![Phalcon](https://img.shields.io/badge/Phalcon-009BDB?style=flat&logo=phalcon&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Node](https://img.shields.io/badge/Node-009BDB?style=flat&logo=node&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
